@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 'Darshit Rudani',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
-                  fontSize: 30,
+                  fontSize: 25,
                   color: Colors.deepPurple.shade700,
                   fontFamily: 'Satisfy',
                 ),
@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                 'Flutter Developer',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
-                  fontSize: 30,
+                  fontSize: 25,
                   color: Colors.deepPurple.shade700,
                   fontFamily: 'RobotoSlab',
                 ),
@@ -80,7 +80,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.black54,
                     ),
                     title: Text(
-                      'droke112001@gmail.com',
+                      'rdarshit111@gmail.com@gmail.com',
                       style: TextStyle(
                         color: Colors.black54,
                         fontFamily: 'RobotoSlab',
